@@ -47,9 +47,8 @@ npm start
 
 The app will start on:
 
-arduino
-Copy code
 http://localhost:3000
+
 🔗 Backend Connection
 Make sure your API calls point to:
 
@@ -57,7 +56,6 @@ https://realestateagent-ol6i.onrender.com
 
 Example:
 
-js
 axios.post("https://realestateagent-ol6i.onrender.com/api/analyze/", data)
 
 📄 Features

@@ -20,7 +20,7 @@ The frontend allows users to:
 
 ---
 
-Find my bacnkend repo at:
+Find my bacnkend repo at:https://github.com/urvashi-lab/RealEstateAgent.git
 
  🌐 Live Deployment
 
